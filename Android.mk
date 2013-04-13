@@ -178,6 +178,6 @@ include $(commands_recovery_local_path)/edify/Android.mk
 include $(commands_recovery_local_path)/updater/Android.mk
 include $(commands_recovery_local_path)/applypatch/Android.mk
 include $(commands_recovery_local_path)/utilities/Android.mk
-include $(commands_recovery_local_path)/libreboot/Android.mk
+#include $(commands_recovery_local_path)/libreboot/Android.mk
 commands_recovery_local_path :=
 
